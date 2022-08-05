@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Git Repositories App</string>
+    <string name="action_search">Search Repository</string>
+</resources>
